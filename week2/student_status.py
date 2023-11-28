@@ -1,5 +1,5 @@
 stud_detail = {}
-num = int(input("\n           *************WELCOME!!!*************\n\nEnter number of students you want manage: "))
+num = int(input("           *************WELCOME!!!*************\n\nEnter number of students you want manage: "))
 def add():
     for i in range(num):
         stud_name = input("Enter name: ")
